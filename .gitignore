@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.png
+!agrinexus_core/images/*.png
+!agrinexus_core/images/*.gif
