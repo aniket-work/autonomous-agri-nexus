@@ -1,6 +1,6 @@
 # AgriNexus-AI: Autonomous Precision Agriculture Consultant 🌾🤖
 
-![AgriNexus Core](https://raw.githubusercontent.com/Aniket762/agri-nexus-ai/main/agrinexus_core/images/title-animation.gif)
+![AgriNexus Core](https://raw.githubusercontent.com/aniket-work/agri-nexus-ai/main/agrinexus_core/images/title-animation.gif)
 
 > **How I Built an Autonomous Agent that Combines IoT Soil Sensors with Search-Based Reasoning to Rescue Crops.**
 
@@ -15,7 +15,7 @@ This project demonstrates a **"Search-First" Agentic Architecture** that:
 3. **Autonomously Researches** remediation strategies using live web search.
 4. **Synthesizes** a strategic, citation-backed advisory report for the farmer.
 
-![Architecture](https://raw.githubusercontent.com/Aniket762/agri-nexus-ai/main/agrinexus_core/images/architecture_diagram.png)
+![Architecture](https://raw.githubusercontent.com/aniket-work/agri-nexus-ai/main/agrinexus_core/images/architecture_diagram.png)
 
 ## 🏗️ Architecture
 The system follows a modular composed architecture:
@@ -25,7 +25,7 @@ The system follows a modular composed architecture:
 - **Research Agent**: A specialized sub-agent that formulates multi-hop search queries to find context-specific solutions.
 - **Synthesis Core**: Combines sensor data, weather context, and research findings into actionable advice.
 
-![Flow](https://raw.githubusercontent.com/Aniket762/agri-nexus-ai/main/agrinexus_core/images/flow_diagram.png)
+![Flow](https://raw.githubusercontent.com/aniket-work/agri-nexus-ai/main/agrinexus_core/images/flow_diagram.png)
 
 ## 🚀 Getting Started
 
@@ -37,7 +37,7 @@ The system follows a modular composed architecture:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Aniket762/agri-nexus-ai.git
+   git clone https://github.com/aniket-work/agri-nexus-ai.git
    cd agri-nexus-ai
    ```
 
